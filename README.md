@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Maura Adha Salsabillah! 👋
 
 > **System Analyst and UI/UX Designer Enthusiast**
