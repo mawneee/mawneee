@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**mawneee/mawneee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Maura Adha Salsabillah! 👋
 
-Here are some ideas to get you started:
+> **System Analyst and UI/UX Designer Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Information Systems student (Semester 5) at UIN Syarif Hidayatullah Jakarta, passionate about bridging the gap between **complex business requirements** and **technical implementation**.
+
+My focus is on designing scalable **System Architectures**, creating precise **Software Requirement Specifications (SRS)**, and building **Data Warehouses** to support decision-making.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **System Analysis** | TOGAF ADM, UML (Use Case, Sequence, Activity), BPMN 2.0 |
+| **Data Engineering** | SQL (PostgreSQL, MySQL) |
+| **Design & Prototyping** | Figma, Draw.io, Python |
+
+---
+
+### 📫 Let's Connect!
+* **LinkedIn:** [Maura Adha Salsabillah](LINK_LINKEDIN_KAMU)
+* **Email:** [mauraadhasalsabillah@gmail.com](mailto:mauraadhasalsabillah@gmail.com)
