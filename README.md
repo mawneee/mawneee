@@ -2,9 +2,7 @@
 
 > **System Analyst and UI/UX Enthusiast**
 
-I am an Information Systems student (Semester 5) at UIN Syarif Hidayatullah Jakarta, passionate about bridging the gap between **complex business requirements** and **technical implementation**.
-
-My focus is on designing scalable **System Architectures**, creating precise **Software Requirement Specifications (SRS)**, and building **Data Warehouses** to support decision-making.
+I am an Information Systems student (Semester 5) at UIN Syarif Hidayatullah Jakarta. As a System Analyst and UI/UX Enthusiast, I am passionate about bridging the gap between complex business requirements and technical implementation, ensuring systems are not only functional but also intuitive and user-centric.
 
 ---
 
