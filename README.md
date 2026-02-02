@@ -19,5 +19,5 @@ My focus is on designing scalable **System Architectures**, creating precise **S
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Maura Adha Salsabillah](LINK_LINKEDIN_KAMU)
+* **LinkedIn:** [Maura Adha Salsabillah](https://www.linkedin.com/in/maura-adha-salsabillah-96332b281/)
 * **Email:** [mauraadhasalsabillah@gmail.com](mailto:mauraadhasalsabillah@gmail.com)
