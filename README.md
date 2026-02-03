@@ -6,16 +6,6 @@ I am an Information Systems student (Semester 5) at UIN Syarif Hidayatullah Jaka
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **System Analysis** | TOGAF ADM, UML (Use Case, Sequence, Activity), BPMN 2.0 |
-| **Data Engineering** | SQL (PostgreSQL, MySQL) |
-| **Design & Prototyping** | Figma, Draw.io, Python |
-
----
-
 ### 📫 Let's Connect!
 * **LinkedIn:** [Maura Adha Salsabillah](https://www.linkedin.com/in/maura-adha-salsabillah-96332b281/)
 * **Email:** [mauraadhasalsabillah@gmail.com](mailto:mauraadhasalsabillah@gmail.com)
