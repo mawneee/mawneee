@@ -1,11 +1,7 @@
-# Hi there, I'm Maura Adha Salsabillah! 👋
+# Hi there, I'm Maura Adha Salsabillah! :D
 
-> **System Analyst and UI/UX Enthusiast**
+I am an undergraduate Information Systems student at UIN Syarif Hidayatullah Jakarta. I am always eager in learning system analysis and UI/UX design. I could say i am a very responsible, detail, an easy to learn person, and also an empath.
 
-I am an Information Systems student (Semester 5) at UIN Syarif Hidayatullah Jakarta. As a System Analyst and UI/UX Enthusiast, I am passionate about bridging the gap between complex business requirements and technical implementation, ensuring systems are not only functional but also intuitive and user-centric.
-
----
-
-### 📫 Let's Connect!
+You can find me on:
 * **LinkedIn:** [Maura Adha Salsabillah](https://www.linkedin.com/in/maura-adha-salsabillah-96332b281/)
 * **Email:** [mauraadhasalsabillah@gmail.com](mailto:mauraadhasalsabillah@gmail.com)
